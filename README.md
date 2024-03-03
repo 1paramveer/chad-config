@@ -8,9 +8,8 @@ git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 
 ```
 
-```
-When prompted to install example config, choose ''n``
-```
+When prompted to install example config, choose 'n'.
+
 
 ### Installation of config files
 
