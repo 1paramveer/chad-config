@@ -16,3 +16,5 @@ When prompted to install example config, choose 'n'.
 ```
 Paste all these files into ~/.config/nvim/lua/custom
 ```
+
+Link to the nvchad [Docs](https://nvchad.com/docs/quickstart/install).
