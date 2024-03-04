@@ -14,7 +14,7 @@ When prompted to install example config, choose 'n'.
 ### Installation of config files
 
 ```
-git clone https://github.com/1paramveer/chadConfig.git ~/.config/nvim/lua/ --depth 1 && nvim
+clone the folder in ~/.config/nvim/lua/
 ```
 
 Link to the nvchad [Docs](https://nvchad.com/docs/quickstart/install).
