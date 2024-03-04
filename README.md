@@ -1,4 +1,4 @@
-# chadConfig
+# NVCHAD CONFIG
 
 
 ### Fresh install of nvchad
@@ -14,8 +14,8 @@ When prompted to install example config, choose 'n'.
 ### Installation of config files
 
 ```
-git clone git@github.com:1paramveer/chadConfig.git
-mv chadConfig custom
+git clone git@github.com:1paramveer/chad-config.git
+mv chad-config custom
 mv custom ~/.config/nvim/lua
 ```
 
