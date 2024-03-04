@@ -15,7 +15,7 @@ When prompted to install example config, choose 'n'.
 
 ```
 git clone git@github.com:1paramveer/chadConfig.git
-mv chadConfig customTest
+mv chadConfig custom
 mv custom ~/.config/nvim/lua
 ```
 
